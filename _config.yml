@@ -1,7 +1,7 @@
 # Site settings
 title: Zheng Kai Blog
-SEOTitle: 郑凯的博客 | Hux Blog
-header-img: img/post-bg-unix-linux.jpg
+SEOTitle: 郑凯的博客 | Zheng Kai Blog
+header-img: img/about-bg-walle.jpg
 email: 1335175@qq.com
 description: '人工智能 量化交易 @ZhengKai 郑凯 的个人博客 '
 keyword: '郑凯 人工智能 量化交易 机器学习 深度学习 强化学习'
@@ -66,7 +66,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: 'PhD condidate, Massey University, New Zealand<br> AI & Quantative Finance'
+sidebar-about-description: 'PhD Condidate <br> Massey University <br> New Zealand <br> AI & Quantative Finance'
 sidebar-avatar: /img/avatar-zhengkai.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
